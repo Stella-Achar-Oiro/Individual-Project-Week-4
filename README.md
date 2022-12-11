@@ -1,6 +1,6 @@
 # Individual-Project-Week-4
 Individual Project Week 4
-##c Instructions
+## Instructions
 1. Using part two of the week 4 practice problem(Lab 4), answer these questions with SQL.
 2. Your submission must include screenshots of your output table and your queries.
 3. Always sort the aggregate columns in descending order and note that SQL Sandbox uses SQLite database.
